@@ -1,0 +1,2 @@
+# rikitavi
+Simple frontend library.
