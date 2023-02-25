@@ -1,0 +1,14 @@
+{
+  "name": "rikitavi",
+  "version": "0.0.2",
+  "description": "",
+  "main": "rikkitavi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirvin01",
+  "license": "ISC",
+  "dependencies": {
+    "umd": "^3.0.3"
+  }
+}
