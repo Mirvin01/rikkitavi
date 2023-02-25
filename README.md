@@ -1,2 +1,2 @@
-# rikitavi
+# rikkitavi
 Simple frontend library.
